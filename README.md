@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Cover](https://github.com/jbtzcodes/jbtzcodes/blob/main/img/Image-profil.png)
-[![Les Stats GitHub de jbtzcodes](https://github-readme-stats.vercel.app/api?jbtzcodes=jbtzcodes)](https://github.com/jbtzcodes/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=jbtzcodes)](https://github.com/jbtzcodes/github-readme-stats)
 <!--
 **jbtzcodes/jbtzcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
