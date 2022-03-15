@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/jbtzcodes/jbtzcodes/blob/main/img/Image-profil.jpg)
+![Cover](https://github.com/jbtzcodes/jbtzcodes/blob/main/img/Image-profil.png)
 <!--
 **jbtzcodes/jbtzcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
