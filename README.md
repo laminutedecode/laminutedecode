@@ -3,10 +3,10 @@ My name is Jonathan, I am a Front-End developer. Passionate about computer codes
 
 On the graphic side, this was my first training. I create all print or digital media (logo, graphic charter, flyer, model, brochure, poster, magazine, business card, website, etc.). I use for this Photoshop, Illustrator, Indesign or After Effects depending on the nature of the work.</div>
 
-<a href="https://github.com/jbtzcodes/github-readme-stats">
+<a href="https://github.com/jbtzcodes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbtzcodes&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/jbtzcodes/github-readme-stats">
+<a href="https://github.com/jbtzcodes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbtzcodes&layout=compact&theme=radical" />
 </a>
 
