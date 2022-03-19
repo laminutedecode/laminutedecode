@@ -1,15 +1,43 @@
-<div>Hello 👋,
-My name is Jonathan, I am a Front-End developer. Passionate about computer codes and digital design since my youth, I decided to devote all my time to it by combining work and passion. Creative, attentive and eternally dissatisfied, I am always looking for the slightest evolution or a new Framework to use. I code in HTML, CSS, JS, React and master various frameworks like Boostrap, Bulma, Materialize, vue.js…
+<div>
+  
+  <h1> 👨‍💻 Hello 👋,</h1>
+  <p>My name is Jonathan, I am a Front-End developer. Passionate about computer codes and digital design since my youth, I decided to devote all my time to it by combining work and passion. Creative, attentive and eternally dissatisfied, I am always looking for the slightest evolution or a new Framework to use.</p>
+  <span> 📝  I code in:</span>
+  <ul>
+     <li> 🔥HTML</li>
+     <li> 🔥CSS</li>
+     <li> 🔥JS</li>
+     <li> 🔥PHP</li>
+  </ul>
+  <span> 📝 I use frameworks like:</span>
+   <ul>
+     <li> Boostrap </li>
+     <li> Materialize </li>
+     <li> ✨Tailwind </li>
+     <li> ✨Bulma </li>
+     <li> ✨React </li>
+     <li> ✨Angular </li>
+     <li> ✨Vue.js </li>
+  </ul>
+  
+  👉<a target="_blank" href="https://www.jonathanbenitez.fr"/>My portfolio</a>   👉<a target="_blank" href="https://www.instagram.com/jbtz.codes/"/>Instagram</a>
+  
+  <br>
+  <br>
+  <br>
+  
+</div>
 
-On the graphic side, this was my first training. I create all print or digital media (logo, graphic charter, flyer, model, brochure, poster, magazine, business card, website, etc.). I use for this Photoshop, Illustrator, Indesign or After Effects depending on the nature of the work.</div>
-
-<a href="https://github.com/jbtzcodes/">
+  
+<div>
+ <a href="https://github.com/jbtzcodes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbtzcodes&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/jbtzcodes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbtzcodes&layout=compact&theme=radical" />
 </a>
 
+</div>
 <!--
 **jbtzcodes/jbtzcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
