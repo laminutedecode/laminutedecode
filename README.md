@@ -11,8 +11,8 @@
   </ul>
   <span> 📝 I use frameworks like:</span>
    <ul>
-     <li> Boostrap </li>
-     <li> Materialize </li>
+     <li> ✨Boostrap </li>
+     <li> ✨Materialize </li>
      <li> ✨Tailwind </li>
      <li> ✨Bulma </li>
      <li> ✨React </li>
