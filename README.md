@@ -20,6 +20,8 @@
      <li> ✨Vue.js </li>
   </ul>
   
+  <hr>
+  <h3>Links</h3>
   👉<a target="_blank" href="https://www.jonathanbenitez.fr"/>My portfolio</a>   👉<a target="_blank" href="https://www.instagram.com/jbtz.codes/"/>Instagram</a>
   
   <br>
