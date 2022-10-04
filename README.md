@@ -32,16 +32,16 @@
 
   
 <div>
- <a href="https://github.com/jbtzcodes/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jbtzcodes&show_icons=true&theme=radical" />
+ <a href="https://github.com/laminutedecode/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laminutedecode&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/jbtzcodes/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbtzcodes&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminutedecode&layout=compact&theme=radical" />
 </a>
 
 </div>
 <!--
-**jbtzcodes/jbtzcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laminutedecode/laminutedecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
