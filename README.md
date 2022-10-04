@@ -35,10 +35,10 @@
  <a href="https://github.com/laminutedecode/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=laminutedecode&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/jbtzcodes/">
+<a href="https://github.com/laminutedecode/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminutedecode&layout=compact&theme=radical" />
 </a>
-![Cover](https://github.com/laminutedecode/laminutedecode/blob/master/img/cover.jpg)
+
 </div>
 <!--
 **laminutedecode/laminutedecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
