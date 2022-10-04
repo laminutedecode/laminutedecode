@@ -22,7 +22,7 @@
   
   <hr>
   <h3>Links</h3>
-  👉<a target="_blank" href="https://www.jonathanbenitez.fr"/>My portfolio</a>   👉<a target="_blank" href="https://www.instagram.com/jbtz.codes/"/>Instagram</a>
+  👉<a target="_blank" href="https://www.laminutedecode.com"/>My web site</a>   👉<a target="_blank" href="https://www.instagram.com/jbtz.codes/"/>Instagram</a>
   
   <br>
   <br>
@@ -38,7 +38,7 @@
 <a href="https://github.com/jbtzcodes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laminutedecode&layout=compact&theme=radical" />
 </a>
-
+![Cover](https://github.com/laminutedecode/laminutedecode/blob/master/img/cover.jpg)
 </div>
 <!--
 **laminutedecode/laminutedecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
