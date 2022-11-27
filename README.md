@@ -11,14 +11,14 @@
 </a>
 <br><br>
 
-  <p>Bonjour à tous je suis Jonathan Benitez, passionné de développement informatique et de design digital. J’aime dans le design le fait de faire ressentir des émotions et de s’exprimer à travers des mots, des formes et des couleurs en usant d’une totale créativité.</p>
-  <p>Côté développement web, maitriser les langages du web afin de me perfectionner dans la programmation fut une expérience riche et révélatrice. En effet le gout que j’ai pris à comprendre, analyser, développer et consolider un site web ou une application à travers les techniques qu’offrent les langages de programmations a été pour moi une vraie révélation professionnelle.</p>
-  <p>Ambitieux, solide et compètent ayant le gout de l’organisation et du travail bien fait, j’ai pour but, à chaque projet, de dépasser les limites de ma créativité..</p>
+  <p>Hello everyone, I am Jonathan Benitez, passionate about computer development and digital design. I like in design the fact of making people feel emotions and express themselves through words, shapes and colors using total creativity.</p>
+  <p>On the web development side, mastering the languages of the web in order to improve my programming skills was a rich and revealing experience. Indeed the taste that I took to understand, analyze, develop and consolidate a website or an application through the techniques offered by programming languages ​​was for me a real professional revelation.</p>
+  <p>Ambitious, solid and competent with a taste for organization and a job well done, my goal, with each project, is to exceed the limits of my creativity.</p>
 <br><br>
   
-- 💼 Un projet ? parlons-en, [email](mailto:jonathan.benitez.contact@gmail.com) :)
+- 💼 A project ? let's talk about it, [email](mailto:jonathan.benitez.contact@gmail.com) :)
 <br><br>
-<h3>✅ Langages</h3>
+<h3>✅ Languages</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
