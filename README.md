@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/laminutedecode/">
   <img align="left" alt="jbtzcodes Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.com/invite/jgagnpkVCG">
+<a href="https://discord.com/invite/HErpkxbmbS">
   <img align="left" alt="jbtzcodes Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jbtzdesigner/">
