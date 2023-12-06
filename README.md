@@ -17,7 +17,7 @@ Ambitieux, solide et compétent avec un goût pour l'organisation et un travail 
 
 - **Langages  :** HTML, CSS, JavaScript, Node.js, PHP, SQL
 - **Frameworks et librairies :** Bootstrap, Bulma, Materialize, Vue.js, React, Next.js, Sass
-- **CMS : ** Wordpress
+- **CMS :** Wordpress
   
 <br><br>
 
@@ -33,7 +33,7 @@ Ambitieux, solide et compétent avec un goût pour l'organisation et un travail 
 
 <br><br>
 
-- 💼 Vous avez un projet ? Parlons-en, [email](mailto:laminutedecode@gmail.com) :)
+- 💼 Vous avez un projet ? Parlons-en, [contacter moi](mailto:laminutedecode@gmail.com) :)
 
 <br><br>
 
