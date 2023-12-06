@@ -34,6 +34,6 @@
 
 <h3>📈 Stats</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jbtzcodes&show_icons=true&theme=gotham" alt="jbtzcodes" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laminutedecode&show_icons=true&theme=gotham" alt="laminutedecode" />
 
   
