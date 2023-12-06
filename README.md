@@ -1,24 +1,25 @@
-<h1> 👨‍💻 Hello 👋,</h1>
-<br><br>
-<a href="https://www.instagram.com/laminutedecode/">
-  <img align="left" alt="jbtzcodes Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/invite/HErpkxbmbS">
-  <img align="left" alt="jbtzcodes Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jbtzdesigner/">
-  <img align="left" alt="jbtzcodes LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# 👨‍💻 Bonjour 👋,
+
+Salut tout le monde, je suis Jonathan Benitez, passionné par le développement informatique et le design numérique. Je trouve de la joie dans la conception en évoquant des émotions et en permettant l'expression de soi à travers les mots, les formes et les couleurs avec une créativité complète.
+
+Du côté du développement web, maîtriser les langages du web pour améliorer mes compétences en programmation a été une expérience riche et révélatrice. La joie que j'ai trouvée à comprendre, analyser, développer et consolider un site web ou une application à travers les langages de programmation a été une véritable révélation professionnelle.
+
+Ambitieux, solide et compétent avec un goût pour l'organisation et un travail bien fait, mon objectif, avec chaque projet, est de dépasser les limites de ma créativité.
+
+
 <br><br>
 
-  <p>Hello everyone, I am Jonathan Benitez, passionate about computer development and digital design. I like in design the fact of making people feel emotions and express themselves through words, shapes and colors using total creativity.</p>
-  <p>On the web development side, mastering the languages of the web in order to improve my programming skills was a rich and revealing experience. Indeed the taste that I took to understand, analyze, develop and consolidate a website or an application through the techniques offered by programming languages ​​was for me a real professional revelation.</p>
-  <p>Ambitious, solid and competent with a taste for organization and a job well done, my goal, with each project, is to exceed the limits of my creativity.</p>
-<br><br>
+## 📈 Statistiques
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laminutedecode&show_icons=true&theme=gotham" alt="laminutedecode" />
+
+## 🛠️ Compétences
+
+- **Langages  :** HTML, CSS, JavaScript, Node.js, PHP, SQL
+- **Frameworks et librairies :** Bootstrap, Bulma, Materialize, Vue.js, React, Next.js, Sass
+- **CMS : ** Wordpress
   
-- 💼 A project ? let's talk about it, [email](mailto:jonathan.benitez.contact@gmail.com) :)
 <br><br>
-<h3>✅ Languages</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -32,8 +33,13 @@
 
 <br><br>
 
-<h3>📈 Stats</h3>
+- 💼 Vous avez un projet ? Parlons-en, [email](mailto:laminutedecode@gmail.com) :)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laminutedecode&show_icons=true&theme=gotham" alt="laminutedecode" />
+<br><br>
 
-  
+## 📫 Me contacter
+
+- Email : [laminutedecode@gmail.com](mailto:laminutedecode@gmail.com)
+- Site : [laminutedecode.com](https://laminutedecode.com)
+
+N'hésitez pas à me contacter si vous avez des questions, des idées de collaboration ou simplement pour discuter du code. Bonne programmation ! 👩‍💻
